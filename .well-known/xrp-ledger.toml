@@ -1,11 +1,11 @@
 [[ISSUERS]]
-address = "rPbEMEsF1r9tRD4mLwBDqGMWwfRyUHFWRA"
-name = "MIGO"
+address = "rDZsoYKvw5DsM6tyE1M8qCh4LzDeqCJsuV"
+name = "FBROWS"
 
 [[TOKENS]]
-issuer = "rPbEMEsF1r9tRD4mLwBDqGMWwfRyUHFWRA"
-currency = "MIGO"
-name = "MIGOCOIN"
+issuer = "rDZsoYKvw5DsM6tyE1M8qCh4LzDeqCJsuV"
+currency = "FBROWS"
+name = "FBROWSCOIN"
 desc = "testcoin (test) is a digital currency, developed specifically for the regulated gaming industry."
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
