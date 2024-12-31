@@ -1,11 +1,11 @@
 [[ISSUERS]]
 address = "rPbEMEsF1r9tRD4mLwBDqGMWwfRyUHFWRA"
-name = "GIGA"
+name = "MIGO"
 
 [[TOKENS]]
 issuer = "rPbEMEsF1r9tRD4mLwBDqGMWwfRyUHFWRA"
-currency = "GIGA"
-name = "GIGACOIN"
+currency = "MIGO"
+name = "MIGOCOIN"
 desc = "testcoin (test) is a digital currency, developed specifically for the regulated gaming industry."
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
