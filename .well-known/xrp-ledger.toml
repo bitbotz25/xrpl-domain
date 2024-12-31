@@ -1,11 +1,11 @@
 [[ISSUERS]]
 address = "rsxy8YMMuN37VR84FH4aPKjHPmChWaBcVy"
-name = "KIKI"
+name = "TEACH"
 
 [[TOKENS]]
 issuer = "rsxy8YMMuN37VR84FH4aPKjHPmChWaBcVy"
-currency = "KIKI"
-name = "KIKICOIN"
+currency = "TEACH"
+name = "TEACHCOIN"
 desc = "testcoin (test) is a digital currency, developed specifically for the regulated gaming industry."
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
