@@ -1,24 +1,24 @@
 [[ISSUERS]]
-address = "rac4DH9ctZ7CRWKNUiuXocLGDFD3qDvBGo"
-name = "BROWSER"
+address = "rUnJurZqScKXA7mzg2fAQLdnkkzJGV6ooY"
+name = "Stan"
 
 [[TOKENS]]
-issuer = "rac4DH9ctZ7CRWKNUiuXocLGDFD3qDvBGo"
-currency = "BROWSER"
-name = "BROWSERCOIN"
-desc = "testcoin (test) is a digital currency, developed specifically for the regulated gaming industry."
+issuer = "rUnJurZqScKXA7mzg2fAQLdnkkzJGV6ooY"
+currency = "Stan"
+name = "Stanley"
+desc = "Stanley the first cat on xrp"
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
 [[TOKENS.WEBLINKS]]
-url = "https://youtube.com"
+url = "https://www.tiktok.com/@catstanley18/video/6828712649916681478?lang=en"
 type = "website"
 title = "Official Website"
 
 [[TOKENS.WEBLINKS]]
-url = "https://youtube.com"
+url = "https://www.tiktok.com/@catstanley18/video/6828712649916681478?lang=en"
 type = "website"
-title = "Token Info Dashboard"
+title = "Telegram"
 
 [[TOKENS.WEBLINKS]]
-url = "https://twitter.com"
+url = "https://www.tiktok.com/@catstanley18/video/6828712649916681478?lang=en"
 type = "socialmedia"
