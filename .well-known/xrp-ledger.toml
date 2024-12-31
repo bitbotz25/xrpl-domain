@@ -1,11 +1,11 @@
 [[ISSUERS]]
 address = "rMnn7EyzShsGdPEbCEbpWVA5NH74z767y7"
-name = "TEST"
+name = "TEST2"
 
 [[TOKENS]]
 issuer = "rMnn7EyzShsGdPEbCEbpWVA5NH74z767y7"
-currency = "TEST"
-name = "TESTCOIN"
+currency = "TEST2"
+name = "TESTCOIN2"
 desc = "testcoin (test) is a digital currency, developed specifically for the regulated gaming industry."
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
