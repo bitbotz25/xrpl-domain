@@ -1,11 +1,11 @@
 [[ISSUERS]]
-address = "rDZsoYKvw5DsM6tyE1M8qCh4LzDeqCJsuV"
-name = "FBROWS"
+address = "rsCbenAHhPMjsn47e5V79MeqVQgwFH5VKF"
+name = "JESSI"
 
 [[TOKENS]]
-issuer = "rDZsoYKvw5DsM6tyE1M8qCh4LzDeqCJsuV"
-currency = "FBROWS"
-name = "FBROWSCOIN"
+issuer = "rsCbenAHhPMjsn47e5V79MeqVQgwFH5VKF"
+currency = "JESSI"
+name = "JESSICOIN"
 desc = "testcoin (test) is a digital currency, developed specifically for the regulated gaming industry."
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
