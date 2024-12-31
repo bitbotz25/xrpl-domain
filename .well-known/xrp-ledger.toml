@@ -1,11 +1,11 @@
 [[ISSUERS]]
-address = "rfrZgLZf3zXriFsfgfGSSWhqkXkLDB6qrp"
-name = "FUCK"
+address = "rsxy8YMMuN37VR84FH4aPKjHPmChWaBcVy"
+name = "MIMI"
 
 [[TOKENS]]
-issuer = "rfrZgLZf3zXriFsfgfGSSWhqkXkLDB6qrp"
-currency = "FUCK"
-name = "TESTCOIN2"
+issuer = "rsxy8YMMuN37VR84FH4aPKjHPmChWaBcVy"
+currency = "MIMI"
+name = "MIMICOIN"
 desc = "testcoin (test) is a digital currency, developed specifically for the regulated gaming industry."
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
