@@ -1,11 +1,11 @@
 [[ISSUERS]]
 address = "rsxy8YMMuN37VR84FH4aPKjHPmChWaBcVy"
-name = "TEACH"
+name = "TEACH2"
 
 [[TOKENS]]
 issuer = "rsxy8YMMuN37VR84FH4aPKjHPmChWaBcVy"
-currency = "TEACH"
-name = "TEACHCOIN"
+currency = "TEACH2"
+name = "TEACHCOIN2"
 desc = "testcoin (test) is a digital currency, developed specifically for the regulated gaming industry."
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
