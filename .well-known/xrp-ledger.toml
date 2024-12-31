@@ -1,11 +1,11 @@
 [[ISSUERS]]
-address = "rsCbenAHhPMjsn47e5V79MeqVQgwFH5VKF"
-name = "BAD"
+address = "rprfCFZtQgttGCJsDjYE5WqAi9DHsNmQ1H"
+name = "IBROWS"
 
 [[TOKENS]]
-issuer = "rsCbenAHhPMjsn47e5V79MeqVQgwFH5VKF"
-currency = "BAD"
-name = "BADCOIN"
+issuer = "rprfCFZtQgttGCJsDjYE5WqAi9DHsNmQ1H"
+currency = "IBROWS"
+name = "IBROWSCOIN"
 desc = "testcoin (test) is a digital currency, developed specifically for the regulated gaming industry."
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
