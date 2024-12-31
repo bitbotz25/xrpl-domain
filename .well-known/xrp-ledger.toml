@@ -1,24 +1,24 @@
 [[ISSUERS]]
-address = "rCSCManTZ8ME9EoLrSHHYKW8PPwWMgkwr"
-name = "CasinoCoin"
+address = "rMnn7EyzShsGdPEbCEbpWVA5NH74z767y7"
+name = "TEST"
 
 [[TOKENS]]
-issuer = "rCSCManTZ8ME9EoLrSHHYKW8PPwWMgkwr"
-currency = "CSC"
-name = "CasinoCoin"
-desc = "CasinoCoin (CSC) is a digital currency, developed specifically for the regulated gaming industry."
+issuer = "rMnn7EyzShsGdPEbCEbpWVA5NH74z767y7"
+currency = "TEST"
+name = "TESTCOIN"
+desc = "testcoin (test) is a digital currency, developed specifically for the regulated gaming industry."
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
 [[TOKENS.WEBLINKS]]
-url = "https://casinocoin.im"
+url = "https://youtube.com"
 type = "website"
 title = "Official Website"
 
 [[TOKENS.WEBLINKS]]
-url = "https://casinocoin.info"
+url = "https://youtube.com"
 type = "website"
 title = "Token Info Dashboard"
 
 [[TOKENS.WEBLINKS]]
-url = "https://twitter.com/CasinoCoin"
+url = "https://twitter.com"
 type = "socialmedia"
