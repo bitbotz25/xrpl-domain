@@ -1,24 +1,24 @@
 [[ISSUERS]]
 address = "rUbkbaMoLFCGerkmB3BddaRfJi7s34WmVw"
-name = "Xrp25"
+name = "$RISK"
 
 [[TOKENS]]
 issuer = "rUbkbaMoLFCGerkmB3BddaRfJi7s34WmVw"
-currency = "Xrp25"
-name = "Xrp25"
-desc = "xrp entire 2025"
+currency = "$RISK"
+name = "$RISK IT"
+desc = "Risk It, its 2025!"
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
 [[TOKENS.WEBLINKS]]
-url = "https://www.tiktok.com/@cryptowendyo/video/7451324177367223595"
+url = "https://www.tiktok.com/discover/xrp-will-be-worth-50k-in-2025"
 type = "website"
 title = "Official Website"
 
 [[TOKENS.WEBLINKS]]
-url = "https://www.tiktok.com/@cryptowendyo/video/7451324177367223595"
+url = "https://www.tiktok.com/discover/xrp-will-be-worth-50k-in-2025"
 type = "website"
 title = "Telegram"
 
 [[TOKENS.WEBLINKS]]
-url = "https://www.tiktok.com/@cryptowendyo/video/7451324177367223595"
+url = "https://www.tiktok.com/discover/xrp-will-be-worth-50k-in-2025"
 type = "socialmedia"
