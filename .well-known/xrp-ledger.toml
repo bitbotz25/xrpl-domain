@@ -1,12 +1,12 @@
 [[ISSUERS]]
-address = "rsGC8cEfQ2hTuJKYeQyQteTFE1utH95Xjf"
-name = "T2025"
+address = "rCij9VXCJzCCvowa261C5wkAgfY8tv5ce"
+name = "Max"
 
 [[TOKENS]]
-issuer = "rsGC8cEfQ2hTuJKYeQyQteTFE1utH95Xjf"
-currency = "T2025"
-name = "trumpyear"
-desc = "Trump for crypto 2025"
+issuer = "rCij9VXCJzCCvowa261C5wkAgfY8tv5ce"
+currency = "Max"
+name = "Maximus"
+desc = "Maximus is the bold new meme coin on the XRPL, uniting crypto enthusiasts with its gladiator spirit and viral potential. With unstoppable energy and a mission to dominate the digital colosseum, Maximus is here to claim its crown"
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
 [[TOKENS.WEBLINKS]]
