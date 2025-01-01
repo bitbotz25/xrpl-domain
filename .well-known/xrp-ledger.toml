@@ -1,11 +1,11 @@
 [[ISSUERS]]
 address = "rCij9VXCJzCCvowa261C5wkAgfY8tv5ce"
-name = "Raven"
+name = "RAVEN"
 
 [[TOKENS]]
 issuer = "rCij9VXCJzCCvowa261C5wkAgfY8tv5ce"
-currency = "Raven"
-name = "Raven"
+currency = "RAVEN"
+name = "RAVEN"
 desc = "Raven on xrpl"
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
