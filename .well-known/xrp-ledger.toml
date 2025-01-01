@@ -1,12 +1,12 @@
 [[ISSUERS]]
-address = "rfkS5A4o25hntfiUZrySCcNs1W2DVySgNy"
-name = "TB34700"
+address = "rBc6YQGkbKNEYekKVPBCs6n1aDH2X1fbSK"
+name = "BLEXIM"
 
 [[TOKENS]]
-issuer = "rfkS5A4o25hntfiUZrySCcNs1W2DVySgNy"
-currency = "TB34700"
-name = "TB34700"
-desc = "TB34700"
+issuer = "rBc6YQGkbKNEYekKVPBCs6n1aDH2X1fbSK"
+currency = "BLEXIM"
+name = "BLEXIM"
+desc = "BLEXIM"
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
 [[TOKENS.WEBLINKS]]
