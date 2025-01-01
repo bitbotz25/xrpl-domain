@@ -4,9 +4,9 @@ name = "Max"
 
 [[TOKENS]]
 issuer = "rCij9VXCJzCCvowa261C5wkAgfY8tv5ce"
-currency = "Max"
-name = "Maximus"
-desc = "Maximus is the bold new meme coin on the XRPL, uniting crypto enthusiasts with its gladiator spirit and viral potential. With unstoppable energy and a mission to dominate the digital colosseum, Maximus is here to claim its crown"
+currency = "Raven"
+name = "Raven"
+desc = "Raven on xrpl"
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
 [[TOKENS.WEBLINKS]]
