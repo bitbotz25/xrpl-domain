@@ -1,12 +1,12 @@
 [[ISSUERS]]
-address = "rsxy8YMMuN37VR84FH4aPKjHPmChWaBcVy"
-name = "BKONG"
+address = "rsGC8cEfQ2hTuJKYeQyQteTFE1utH95Xjf"
+name = "T2025"
 
 [[TOKENS]]
-issuer = "rsxy8YMMuN37VR84FH4aPKjHPmChWaBcVy"
-currency = "BKONG"
-name = "BKONG"
-desc = "BABYKONG"
+issuer = "rsGC8cEfQ2hTuJKYeQyQteTFE1utH95Xjf"
+currency = "T2025"
+name = "trumpyear"
+desc = "Trump for crypto 2025"
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
 [[TOKENS.WEBLINKS]]
