@@ -1,12 +1,12 @@
 [[ISSUERS]]
-address = "rhSE7cGiT3L1JTLZCUY16f8pnziG762xT3"
-name = "XEDIUS"
+address = "rfkS5A4o25hntfiUZrySCcNs1W2DVySgNy"
+name = "XODUS"
 
 [[TOKENS]]
-issuer = "rhSE7cGiT3L1JTLZCUY16f8pnziG762xT3"
-currency = "XEDIUS"
-name = "XEDIUSTECH"
-desc = "XEDIUSTECH on xrpl"
+issuer = "rfkS5A4o25hntfiUZrySCcNs1W2DVySgNy"
+currency = "XODUS"
+name = "XODUSKRAMER"
+desc = "XODUS KRAMER"
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
 [[TOKENS.WEBLINKS]]
