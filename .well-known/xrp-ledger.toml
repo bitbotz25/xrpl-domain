@@ -1,12 +1,12 @@
 [[ISSUERS]]
 address = "rfkS5A4o25hntfiUZrySCcNs1W2DVySgNy"
-name = "XODUS"
+name = "TB34700"
 
 [[TOKENS]]
 issuer = "rfkS5A4o25hntfiUZrySCcNs1W2DVySgNy"
-currency = "XODUS"
-name = "XODUSKRAMER"
-desc = "XODUS KRAMER"
+currency = "TB34700"
+name = "TB34700"
+desc = "TB34700"
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
 [[TOKENS.WEBLINKS]]
