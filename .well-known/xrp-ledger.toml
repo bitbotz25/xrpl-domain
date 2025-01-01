@@ -1,9 +1,9 @@
 [[ISSUERS]]
-address = "rUbkbaMoLFCGerkmB3BddaRfJi7s34WmVw"
+address = "rMwHdkzshvh24viXxh9HFohpEauEb8jFrM"
 name = "$RISK"
 
 [[TOKENS]]
-issuer = "rUbkbaMoLFCGerkmB3BddaRfJi7s34WmVw"
+issuer = "rMwHdkzshvh24viXxh9HFohpEauEb8jFrM"
 currency = "$RISK"
 name = "$RISK IT"
 desc = "Risk It, its 2025!"
