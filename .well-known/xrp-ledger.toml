@@ -1,12 +1,12 @@
 [[ISSUERS]]
-address = "rPcQ558ZUuZShjWCEEbgZuRRoTASduZmt1"
-name = "25mMC"
+address = "rsxy8YMMuN37VR84FH4aPKjHPmChWaBcVy"
+name = "BKONG"
 
 [[TOKENS]]
-issuer = "rPcQ558ZUuZShjWCEEbgZuRRoTASduZmt1"
-currency = "25mMC"
-name = "25mMC"
-desc = "25 MILLION DOLLAR MARKETCAP FOR $2025"
+issuer = "rsxy8YMMuN37VR84FH4aPKjHPmChWaBcVy"
+currency = "BKONG"
+name = "BKONG"
+desc = "BABYKONG"
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
 [[TOKENS.WEBLINKS]]
