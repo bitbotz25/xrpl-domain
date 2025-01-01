@@ -1,24 +1,24 @@
 [[ISSUERS]]
-address = "rMwHdkzshvh24viXxh9HFohpEauEb8jFrM"
-name = "$RISK"
+address = "rPcQ558ZUuZShjWCEEbgZuRRoTASduZmt1"
+name = "25mMC"
 
 [[TOKENS]]
-issuer = "rMwHdkzshvh24viXxh9HFohpEauEb8jFrM"
-currency = "$RISK"
-name = "$RISK IT"
-desc = "Risk It, its 2025!"
+issuer = "rPcQ558ZUuZShjWCEEbgZuRRoTASduZmt1"
+currency = "25mMC"
+name = "25mMC"
+desc = "25 MILLION DOLLAR MARKETCAP FOR $2025"
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
 [[TOKENS.WEBLINKS]]
-url = "https://www.tiktok.com/discover/xrp-will-be-worth-50k-in-2025"
+url = "https://www.tiktok.com"
 type = "website"
 title = "Official Website"
 
 [[TOKENS.WEBLINKS]]
-url = "https://www.tiktok.com/discover/xrp-will-be-worth-50k-in-2025"
+url = "https://www.tiktok.com"
 type = "website"
 title = "Telegram"
 
 [[TOKENS.WEBLINKS]]
-url = "https://www.tiktok.com/discover/xrp-will-be-worth-50k-in-2025"
+url = "https://www.tiktok.com"
 type = "socialmedia"
