@@ -1,24 +1,24 @@
 [[ISSUERS]]
-address = "rUnJurZqScKXA7mzg2fAQLdnkkzJGV6ooY"
-name = "Stan"
+address = "rUbkbaMoLFCGerkmB3BddaRfJi7s34WmVw"
+name = "Xrp25"
 
 [[TOKENS]]
-issuer = "rUnJurZqScKXA7mzg2fAQLdnkkzJGV6ooY"
-currency = "Stan"
-name = "Stanley"
-desc = "Stanley the first cat on xrp"
+issuer = "rUbkbaMoLFCGerkmB3BddaRfJi7s34WmVw"
+currency = "Xrp25"
+name = "Xrp25"
+desc = "xrp entire 2025"
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
 [[TOKENS.WEBLINKS]]
-url = "https://www.tiktok.com/@catstanley18/video/6828712649916681478?lang=en"
+url = "https://www.tiktok.com/@cryptowendyo/video/7451324177367223595"
 type = "website"
 title = "Official Website"
 
 [[TOKENS.WEBLINKS]]
-url = "https://www.tiktok.com/@catstanley18/video/6828712649916681478?lang=en"
+url = "https://www.tiktok.com/@cryptowendyo/video/7451324177367223595"
 type = "website"
 title = "Telegram"
 
 [[TOKENS.WEBLINKS]]
-url = "https://www.tiktok.com/@catstanley18/video/6828712649916681478?lang=en"
+url = "https://www.tiktok.com/@cryptowendyo/video/7451324177367223595"
 type = "socialmedia"
