@@ -1,12 +1,12 @@
 [[ISSUERS]]
-address = "r3PxGraona8wMbGmei2FXJ6b4M42fPUGKg"
-name = "DOC EXECEL"
+address = "rpveek9dRCku3EqJTviYpZcQCydottPgE2"
+name = "PIKACHU"
 
 [[TOKENS]]
-issuer = "r3PxGraona8wMbGmei2FXJ6b4M42fPUGKg"
-currency = "DOC"
-name = "DOC"
-desc = " XRPL"
+issuer = "rpveek9dRCku3EqJTviYpZcQCydottPgE2"
+currency = "PIKACHU"
+name = "PIKACHU"
+desc = " POKEMON"
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
 [[TOKENS.WEBLINKS]]
