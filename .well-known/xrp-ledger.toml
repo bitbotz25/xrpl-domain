@@ -1,11 +1,11 @@
 [[ISSUERS]]
-address = "rnZH7fBDr9ocVLm7VGiZg5ZeYFrma8KvmN"
-name = "HUNTER"
+address = "rKXH4A8Z4pKNUpnBXajsPN2isESEujB3N1"
+name = "FLOKIUS"
 
 [[TOKENS]]
-issuer = "rnZH7fBDr9ocVLm7VGiZg5ZeYFrma8KvmN"
-currency = "HUNTER"
-name = "HUNTER"
+issuer = "rKXH4A8Z4pKNUpnBXajsPN2isESEujB3N1"
+currency = "FLOKIUS"
+name = "FLOKIUS"
 desc = " HUNT FOR GEMS"
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
