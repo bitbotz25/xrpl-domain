@@ -1,12 +1,12 @@
 [[ISSUERS]]
-address = "rpveek9dRCku3EqJTviYpZcQCydottPgE2"
-name = "PIKACHU"
+address = "rnZH7fBDr9ocVLm7VGiZg5ZeYFrma8KvmN"
+name = "HUNTER"
 
 [[TOKENS]]
-issuer = "rpveek9dRCku3EqJTviYpZcQCydottPgE2"
-currency = "PIKACHU"
-name = "PIKACHU"
-desc = " POKEMON"
+issuer = "rnZH7fBDr9ocVLm7VGiZg5ZeYFrma8KvmN"
+currency = "HUNTER"
+name = "HUNTER"
+desc = " HUNT FOR GEMS"
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
 [[TOKENS.WEBLINKS]]
