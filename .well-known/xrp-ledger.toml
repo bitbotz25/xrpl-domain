@@ -1,11 +1,11 @@
 [[ISSUERS]]
 address = "r3PxGraona8wMbGmei2FXJ6b4M42fPUGKg"
-name = "PIXITE"
+name = "DOC EXECEL"
 
 [[TOKENS]]
 issuer = "r3PxGraona8wMbGmei2FXJ6b4M42fPUGKg"
-currency = "PIXITE"
-name = "PIXITE"
+currency = "DOC"
+name = "DOC"
 desc = " XRPL"
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
