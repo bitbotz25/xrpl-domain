@@ -1,12 +1,12 @@
 [[ISSUERS]]
-address = "rNP6sfgQofjpQjBuwbQxHmnM9SAXX6o9f7"
-name = "LARRY"
+address = "rPkRctDshxzM41MU8GD9TDvVPb4M5Ap3b4"
+name = "BTX"
 
 [[TOKENS]]
-issuer = "rNP6sfgQofjpQjBuwbQxHmnM9SAXX6o9f7"
-currency = "LARRY"
-name = "LARRY"
-desc = "LARRY: Bold, unpredictable, and built for the daring. A token that embodies chaos and opportunity in equal measure. For the degens who live for the thrill of the next big move."
+issuer = "rPkRctDshxzM41MU8GD9TDvVPb4M5Ap3b4"
+currency = "BTX"
+name = "BTX"
+desc = "BTX: Bold, unpredictable, and built for the daring. A token that embodies chaos and opportunity in equal measure. For the degens who live for the thrill of the next big move."
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
 [[TOKENS.WEBLINKS]]
