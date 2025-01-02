@@ -1,12 +1,12 @@
 [[ISSUERS]]
-address = "rBc6YQGkbKNEYekKVPBCs6n1aDH2X1fbSK"
-name = "BLEXIM"
+address = "r31En3de41XEMcuc7hcNEiqL9ZU4ftQDiv"
+name = "SHIBEXIMUS"
 
 [[TOKENS]]
-issuer = "rBc6YQGkbKNEYekKVPBCs6n1aDH2X1fbSK"
-currency = "BLEXIM"
-name = "BLEXIM"
-desc = "BLEXIM"
+issuer = "r31En3de41XEMcuc7hcNEiqL9ZU4ftQDiv"
+currency = "SHIBEXIMUS"
+name = "SHIBEXIMUS"
+desc = "SHIBEXIMUS: The ultimate degen play, where moonshots and chaos collide on the XRPL"
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
 [[TOKENS.WEBLINKS]]
