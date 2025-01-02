@@ -1,12 +1,12 @@
 [[ISSUERS]]
-address = "rLhsoJjw9c3cPPThdN4ue6b1PJZQf9aQmW"
-name = "ARCTECH"
+address = "rw7kqpAbs3kNWTN4fRqLjjTiLRRehpvBhd"
+name = "BSAFE"
 
 [[TOKENS]]
-issuer = "rLhsoJjw9c3cPPThdN4ue6b1PJZQf9aQmW"
-currency = "ARCTECH"
-name = "ARCTECH"
-desc = "ARCTECH built for the daring. A token that embodies chaos and opportunity in equal measure. For the degens who live for the thrill of the next big move."
+issuer = "rw7kqpAbs3kNWTN4fRqLjjTiLRRehpvBhd"
+currency = "BSAFE"
+name = "BSAFE"
+desc = "BABY SAFE MOON  built for the daring. A token that embodies chaos and opportunity in equal measure. For the degens who live for the thrill of the next big move."
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
 [[TOKENS.WEBLINKS]]
