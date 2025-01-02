@@ -1,12 +1,12 @@
 [[ISSUERS]]
-address = "rPkRctDshxzM41MU8GD9TDvVPb4M5Ap3b4"
-name = "BTX"
+address = "rn2quSeL487pVBE9J9SngPYZyR27adKHKc"
+name = "PIKACHU"
 
 [[TOKENS]]
-issuer = "rPkRctDshxzM41MU8GD9TDvVPb4M5Ap3b4"
-currency = "BTX"
-name = "BTX"
-desc = "BTX: Bold, unpredictable, and built for the daring. A token that embodies chaos and opportunity in equal measure. For the degens who live for the thrill of the next big move."
+issuer = "rn2quSeL487pVBE9J9SngPYZyR27adKHKc"
+currency = "PIKACHU"
+name = "PIKACHU"
+desc = "PIKACHU: Bold, unpredictable, and built for the daring. A token that embodies chaos and opportunity in equal measure. For the degens who live for the thrill of the next big move."
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
 [[TOKENS.WEBLINKS]]
