@@ -1,12 +1,12 @@
 [[ISSUERS]]
-address = "rn2quSeL487pVBE9J9SngPYZyR27adKHKc"
-name = "PIKACHU"
+address = "rLhsoJjw9c3cPPThdN4ue6b1PJZQf9aQmW"
+name = "ARCTECH"
 
 [[TOKENS]]
-issuer = "rn2quSeL487pVBE9J9SngPYZyR27adKHKc"
-currency = "PIKACHU"
-name = "PIKACHU"
-desc = "PIKACHU: Bold, unpredictable, and built for the daring. A token that embodies chaos and opportunity in equal measure. For the degens who live for the thrill of the next big move."
+issuer = "rLhsoJjw9c3cPPThdN4ue6b1PJZQf9aQmW"
+currency = "ARCTECH"
+name = "ARCTECH"
+desc = "ARCTECH built for the daring. A token that embodies chaos and opportunity in equal measure. For the degens who live for the thrill of the next big move."
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
 [[TOKENS.WEBLINKS]]
