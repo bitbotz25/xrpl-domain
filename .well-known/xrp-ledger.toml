@@ -1,12 +1,12 @@
 [[ISSUERS]]
-address = "rKXH4A8Z4pKNUpnBXajsPN2isESEujB3N1"
-name = "FLOKIUS"
+address = "rNP6sfgQofjpQjBuwbQxHmnM9SAXX6o9f7"
+name = "LARRY"
 
 [[TOKENS]]
-issuer = "rKXH4A8Z4pKNUpnBXajsPN2isESEujB3N1"
-currency = "FLOKIUS"
-name = "FLOKIUS"
-desc = " HUNT FOR GEMS"
+issuer = "rNP6sfgQofjpQjBuwbQxHmnM9SAXX6o9f7"
+currency = "LARRY"
+name = "LARRY"
+desc = "LARRY: Bold, unpredictable, and built for the daring. A token that embodies chaos and opportunity in equal measure. For the degens who live for the thrill of the next big move."
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
 [[TOKENS.WEBLINKS]]
