@@ -1,12 +1,12 @@
 [[ISSUERS]]
-address = "rNn139R7euNpCe2RjcvfjbT3JiPXA9yySF"
-name = "TRANQ"
+address = "rDM9s6qFBFu11wSxqx9cLeY75UHH4dQ6eh"
+name = "TRUMPSPORT"
 
 [[TOKENS]]
-issuer = "rNn139R7euNpCe2RjcvfjbT3JiPXA9yySF"
-currency = "TRANQ"
-name = "TRANQ"
-desc = "TRANQ built for the daring. A token that embodies chaos and opportunity in equal measure. For the degens who live for the thrill of the next big move."
+issuer = "rDM9s6qFBFu11wSxqx9cLeY75UHH4dQ6eh"
+currency = "TRUMPSPORT"
+name = "TRUMPSPORT"
+desc = "TRUMPSPORT For the degens who live for the thrill of the next big move."
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
 [[TOKENS.WEBLINKS]]
