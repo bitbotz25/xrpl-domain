@@ -1,11 +1,11 @@
 [[ISSUERS]]
-address = "rnboh4wnEqa45SUdMdyjAtzRMGYRjTo7Xr"
-name = "HEIKO"
+address = "rE21wZyP9VTBJT9e7Kd35SQJS5iGLvRVY2"
+name = "BCOX"
 
 [[TOKENS]]
-issuer = "rnboh4wnEqa45SUdMdyjAtzRMGYRjTo7Xr"
-currency = "HEIKO"
-name = "HEIKO"
+issuer = "rE21wZyP9VTBJT9e7Kd35SQJS5iGLvRVY2"
+currency = "BCOX"
+name = "BCOX"
 desc = ""
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
