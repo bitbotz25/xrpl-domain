@@ -1,11 +1,11 @@
 [[ISSUERS]]
-address = "rDeN3o4nKRWA3U7XVzRUNdW3eJvndeMfU2"
-name = "BOBBY"
+address = "rnboh4wnEqa45SUdMdyjAtzRMGYRjTo7Xr"
+name = "HEIKO"
 
 [[TOKENS]]
-issuer = "rDeN3o4nKRWA3U7XVzRUNdW3eJvndeMfU2"
-currency = "BOBBY"
-name = "BOBBY"
+issuer = "rnboh4wnEqa45SUdMdyjAtzRMGYRjTo7Xr"
+currency = "HEIKO"
+name = "HEIKO"
 desc = ""
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
