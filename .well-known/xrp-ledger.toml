@@ -1,11 +1,11 @@
 [[ISSUERS]]
-address = "rs5L4JcjdPkxK7PXJpCM269R685Jza46Ho"
-name = "BFIRE"
+address = "rDeN3o4nKRWA3U7XVzRUNdW3eJvndeMfU2"
+name = "BOBBY"
 
 [[TOKENS]]
-issuer = "rs5L4JcjdPkxK7PXJpCM269R685Jza46Ho"
-currency = "BFIRE"
-name = "BFIRE"
+issuer = "rDeN3o4nKRWA3U7XVzRUNdW3eJvndeMfU2"
+currency = "BOBBY"
+name = "BOBBY"
 desc = ""
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
