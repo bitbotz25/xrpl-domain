@@ -1,12 +1,12 @@
 [[ISSUERS]]
-address = "rKCTjDy1mJc1pBa1RYQLKuxGT9DArESBW7"
-name = "LABS"
+address = "rDCS6jeuEe7oZMHayDBSQEieLrX27oDV73"
+name = "NDEX"
 
 [[TOKENS]]
-issuer = "rKCTjDy1mJc1pBa1RYQLKuxGT9DArESBW7"
-currency = "LABS"
-name = "LABS"
-desc = "where the magic happens, bro—think moonshots and memes, all in one place. It's XRPL, but like, for the degens who wanna vibe and thrive."
+issuer = "rDCS6jeuEe7oZMHayDBSQEieLrX27oDV73"
+currency = "NDEX"
+name = "NDEX"
+desc = "NDEX all in one place. It's XRPL, but like, for the degens who wanna vibe and thrive."
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
 [[TOKENS.WEBLINKS]]
