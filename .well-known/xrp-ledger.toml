@@ -1,12 +1,12 @@
 [[ISSUERS]]
-address = "rsa5VVUbwJZKsNYS5QVhbzVLZ2jii48kAb"
-name = "WOJAK"
+address = "rDqxbK8y7VjFSHK4f8AngYSB9dFtnUU5dR"
+name = "COXIUS"
 
 [[TOKENS]]
-issuer = "rsa5VVUbwJZKsNYS5QVhbzVLZ2jii48kAb"
-currency = "WOJAK"
-name = "WOJAK"
-desc = "THE FIRST WOJAK ON XRP"
+issuer = "rDqxbK8y7VjFSHK4f8AngYSB9dFtnUU5dR"
+currency = "COXIUS"
+name = "COXIUS"
+desc = "THE FIRST COXIUS ON XRP"
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
 [[TOKENS.WEBLINKS]]
