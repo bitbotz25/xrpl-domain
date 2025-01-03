@@ -1,12 +1,12 @@
 [[ISSUERS]]
-address = "rDM9s6qFBFu11wSxqx9cLeY75UHH4dQ6eh"
-name = "TRUMPSPORT"
+address = "rKCTjDy1mJc1pBa1RYQLKuxGT9DArESBW7"
+name = "LABS"
 
 [[TOKENS]]
-issuer = "rDM9s6qFBFu11wSxqx9cLeY75UHH4dQ6eh"
-currency = "TRUMPSPORT"
-name = "TRUMPSPORT"
-desc = "TRUMPSPORT For the degens who live for the thrill of the next big move."
+issuer = "rKCTjDy1mJc1pBa1RYQLKuxGT9DArESBW7"
+currency = "LABS"
+name = "LABS"
+desc = "where the magic happens, bro—think moonshots and memes, all in one place. It's XRPL, but like, for the degens who wanna vibe and thrive."
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
 [[TOKENS.WEBLINKS]]
