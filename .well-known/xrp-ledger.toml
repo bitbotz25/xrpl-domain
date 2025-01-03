@@ -1,12 +1,12 @@
 [[ISSUERS]]
-address = "rDqsh6b7nthah9G7ufEYdM8vjZzyuvd2nJ"
-name = "HAHOO"
+address = "r3rKMqMPpT2gyp6YfQrmAxzVW4WwPz91d"
+name = "PEPEIUS"
 
 [[TOKENS]]
-issuer = "rDqsh6b7nthah9G7ufEYdM8vjZzyuvd2nJ"
-currency = "HAHOO"
-name = "HAHOO"
-desc = ""
+issuer = "r3rKMqMPpT2gyp6YfQrmAxzVW4WwPz91d"
+currency = "PEPEIUS"
+name = "PEPEIUS"
+desc = "PEPE MAXIMUS"
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
 [[TOKENS.WEBLINKS]]
