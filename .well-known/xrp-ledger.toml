@@ -1,11 +1,11 @@
 [[ISSUERS]]
-address = "rE21wZyP9VTBJT9e7Kd35SQJS5iGLvRVY2"
-name = "BCOX"
+address = "rNBuXFndATaMnjABZ8X62JYDszxKHVN9Qo"
+name = "BXOX"
 
 [[TOKENS]]
-issuer = "rE21wZyP9VTBJT9e7Kd35SQJS5iGLvRVY2"
-currency = "BCOX"
-name = "BCOX"
+issuer = "rNBuXFndATaMnjABZ8X62JYDszxKHVN9Qo"
+currency = "BXOX"
+name = "BXOX"
 desc = ""
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
