@@ -1,12 +1,12 @@
 [[ISSUERS]]
-address = "r3rKMqMPpT2gyp6YfQrmAxzVW4WwPz91d"
-name = "PEPEIUS"
+address = "rsa5VVUbwJZKsNYS5QVhbzVLZ2jii48kAb"
+name = "WOJAK"
 
 [[TOKENS]]
-issuer = "r3rKMqMPpT2gyp6YfQrmAxzVW4WwPz91d"
-currency = "PEPEIUS"
-name = "PEPEIUS"
-desc = "PEPE MAXIMUS"
+issuer = "rsa5VVUbwJZKsNYS5QVhbzVLZ2jii48kAb"
+currency = "WOJAK"
+name = "WOJAK"
+desc = "THE FIRST WOJAK ON XRP"
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
 [[TOKENS.WEBLINKS]]
