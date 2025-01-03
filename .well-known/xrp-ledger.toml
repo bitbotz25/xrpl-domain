@@ -1,12 +1,12 @@
 [[ISSUERS]]
-address = "rDqxbK8y7VjFSHK4f8AngYSB9dFtnUU5dR"
-name = "COXIUS"
+address = "rae99QtLjictDPPTBh7R47akMiNMiPyRpr"
+name = "BDODIUS"
 
 [[TOKENS]]
-issuer = "rDqxbK8y7VjFSHK4f8AngYSB9dFtnUU5dR"
-currency = "COXIUS"
-name = "COXIUS"
-desc = "THE FIRST COXIUS ON XRP"
+issuer = "rae99QtLjictDPPTBh7R47akMiNMiPyRpr"
+currency = "BDODIUS"
+name = "BDODIUS"
+desc = ""
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
 [[TOKENS.WEBLINKS]]
