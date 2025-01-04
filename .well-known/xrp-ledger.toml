@@ -1,11 +1,11 @@
 [[ISSUERS]]
-address = "rga8b6Y6R8EbpAMMUiWnFdr9cNAvWj5sp"
-name = "Bark in xrp"
+address = "rMc7uLP1RvgioZhifeGemxryGJMeYw3xkn"
+name = "TRUMP2028"
 
 [[TOKENS]]
-issuer = "rga8b6Y6R8EbpAMMUiWnFdr9cNAvWj5sp"
-currency = "BARK"
-name = "Bark in xrp"
+issuer = "rMc7uLP1RvgioZhifeGemxryGJMeYw3xkn"
+currency = "TRUMP28"
+name = "TRUMP2028"
 desc = ""
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
