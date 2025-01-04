@@ -1,11 +1,11 @@
 [[ISSUERS]]
-address = "rGnPSbHXJKXkApc8U9TMUySkbmVR5YpENx"
-name = "Pengu & Paw"
+address = "rfVkGoC4gs8AecuhcAXt2uC7WqFX6R4XZF"
+name = "Pengu N Paw"
 
 [[TOKENS]]
-issuer = "rGnPSbHXJKXkApc8U9TMUySkbmVR5YpENx"
+issuer = "rfVkGoC4gs8AecuhcAXt2uC7WqFX6R4XZF"
 currency = "PENPAW"
-name = "Pengu & Paw"
+name = "Pengu N Paw"
 desc = ""
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
