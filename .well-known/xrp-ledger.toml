@@ -1,11 +1,11 @@
 [[ISSUERS]]
-address = "r9U9kqS5tytNi1izSzdv152MAVwqXSbSAm"
-name = "LAMBO"
+address = "r3FSLNkYJXocxMogi1SWbMf1axRtJe1AVw"
+name = "XNEIRO NEIRO ON XRP"
 
 [[TOKENS]]
-issuer = "r9U9kqS5tytNi1izSzdv152MAVwqXSbSAm"
-currency = "LAMBO"
-name = "LAMBO"
+issuer = "r3FSLNkYJXocxMogi1SWbMf1axRtJe1AVw"
+currency = "XNEIRO"
+name = "XNEIRO NEIRO ON XRP"
 desc = "."
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
