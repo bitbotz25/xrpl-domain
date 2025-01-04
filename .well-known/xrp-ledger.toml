@@ -1,12 +1,12 @@
 [[ISSUERS]]
-address = "rKpUbxK8xXZQYfdeZnN8zAQNk77fvJtwk6"
-name = "DONT FOTL"
+address = "rfy8Zb62DUQjUsCYYrWgMR4XiinSbFpbPy"
+name = "XRPTECH"
 
 [[TOKENS]]
-issuer = "rKpUbxK8xXZQYfdeZnN8zAQNk77fvJtwk6"
-currency = "FOTL"
-name = "DONT FOTL"
-desc = "HODL DONT FOTL"
+issuer = "rfy8Zb62DUQjUsCYYrWgMR4XiinSbFpbPy"
+currency = "XRPT"
+name = "XRPTECH"
+desc = ""
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
 [[TOKENS.WEBLINKS]]
