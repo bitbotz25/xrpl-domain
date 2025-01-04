@@ -1,12 +1,12 @@
 [[ISSUERS]]
-address = "rJEV7aN3V7Qf4LuehhocGonpu1Mudzw4oU"
-name = "ICE"
+address = "rKpUbxK8xXZQYfdeZnN8zAQNk77fvJtwk6"
+name = "DONT FOTL"
 
 [[TOKENS]]
-issuer = "r3FSLNkYJXocxMogi1SWbMf1axRtJe1AVw"
-currency = "ICE"
-name = "ICE XRP"
-desc = "."
+issuer = "rKpUbxK8xXZQYfdeZnN8zAQNk77fvJtwk6"
+currency = "FOTL"
+name = "DONT FOTL"
+desc = "HODL DONT FOTL"
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
 [[TOKENS.WEBLINKS]]
