@@ -1,11 +1,11 @@
 [[ISSUERS]]
-address = "rUDvDoDayQokFUJ4rCmTtxG2sooRD48bPM"
-name = "XRPOWER"
+address = "r9U9kqS5tytNi1izSzdv152MAVwqXSbSAm"
+name = "LAMBO"
 
 [[TOKENS]]
-issuer = "rUDvDoDayQokFUJ4rCmTtxG2sooRD48bPM"
-currency = "XRPOW"
-name = "XRPOWER"
+issuer = "r9U9kqS5tytNi1izSzdv152MAVwqXSbSAm"
+currency = "LAMBO"
+name = "LAMBO"
 desc = "."
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
