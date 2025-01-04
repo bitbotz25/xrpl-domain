@@ -1,12 +1,12 @@
 [[ISSUERS]]
-address = "rnbCLPxWXHFNDipa5aTBqjYyqGkc9aAXm8"
-name = "KNOX"
+address = "r9VY7jaka4eaSC31zxsxxFvNKPGKJpgAF7"
+name = "MEWTWO"
 
 [[TOKENS]]
-issuer = "rnbCLPxWXHFNDipa5aTBqjYyqGkc9aAXm8"
-currency = "KNOX"
-name = "KNOX"
-desc = ""
+issuer = "r9VY7jaka4eaSC31zxsxxFvNKPGKJpgAF7"
+currency = "MEWTWO"
+name = "MEWTWO"
+desc = "Mewtwo is a Pokémon species in Nintendo and Game Freak's Pokémon media franchise. It was first introduced in the video games Pokémon Red and Blue, and later appeared in subsequent sequels and spin-off titles, such as Pokkén Tournament and Detective Pikachu."
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
 [[TOKENS.WEBLINKS]]
