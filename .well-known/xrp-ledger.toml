@@ -1,11 +1,11 @@
 [[ISSUERS]]
-address = "rae99QtLjictDPPTBh7R47akMiNMiPyRpr"
-name = "BDODIUS"
+address = "r3X8a9V8svyVicvR8Ny9npgai9tHywrvSJ"
+name = "BKOTL"
 
 [[TOKENS]]
-issuer = "rae99QtLjictDPPTBh7R47akMiNMiPyRpr"
-currency = "BDODIUS"
-name = "BDODIUS"
+issuer = "r3X8a9V8svyVicvR8Ny9npgai9tHywrvSJ"
+currency = "BKOTL"
+name = "BKOTL"
 desc = ""
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
