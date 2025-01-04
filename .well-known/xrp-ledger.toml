@@ -1,11 +1,11 @@
 [[ISSUERS]]
-address = "r3X8a9V8svyVicvR8Ny9npgai9tHywrvSJ"
-name = "BKOTL"
+address = "rnbCLPxWXHFNDipa5aTBqjYyqGkc9aAXm8"
+name = "KNOX"
 
 [[TOKENS]]
-issuer = "r3X8a9V8svyVicvR8Ny9npgai9tHywrvSJ"
-currency = "BKOTL"
-name = "BKOTL"
+issuer = "rnbCLPxWXHFNDipa5aTBqjYyqGkc9aAXm8"
+currency = "KNOX"
+name = "KNOX"
 desc = ""
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
