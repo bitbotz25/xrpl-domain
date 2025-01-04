@@ -1,11 +1,11 @@
 [[ISSUERS]]
-address = "r9GrY1ZXK2xGp9jQUjz6ssBaED2ckgoN78"
-name = "SHITCOIN"
+address = "rga8b6Y6R8EbpAMMUiWnFdr9cNAvWj5sp"
+name = "Bark in xrp"
 
 [[TOKENS]]
-issuer = "r9GrY1ZXK2xGp9jQUjz6ssBaED2ckgoN78"
-currency = "SHIT"
-name = "SHITCOIN"
+issuer = "rga8b6Y6R8EbpAMMUiWnFdr9cNAvWj5sp"
+currency = "BARK"
+name = "Bark in xrp"
 desc = ""
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
