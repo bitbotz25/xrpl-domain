@@ -1,11 +1,11 @@
 [[ISSUERS]]
-address = "rwa5MRW4gFxM75RzepQj3qCGgSo2LMAVNV"
-name = "TOTL"
+address = "rUDvDoDayQokFUJ4rCmTtxG2sooRD48bPM"
+name = "XRPOWER"
 
 [[TOKENS]]
-issuer = "rwa5MRW4gFxM75RzepQj3qCGgSo2LMAVNV"
-currency = "TOTL"
-name = "TOTL"
+issuer = "rUDvDoDayQokFUJ4rCmTtxG2sooRD48bPM"
+currency = "XRPOW"
+name = "XRPOWER"
 desc = "."
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
