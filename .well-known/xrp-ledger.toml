@@ -1,11 +1,11 @@
 [[ISSUERS]]
-address = "rMc7uLP1RvgioZhifeGemxryGJMeYw3xkn"
-name = "TRUMP2028"
+address = "rLK3DYw5MQhXWaMLViks6Dcp7ZwuYwjafm"
+name = "PEPE PARTY"
 
 [[TOKENS]]
-issuer = "rMc7uLP1RvgioZhifeGemxryGJMeYw3xkn"
-currency = "TRUMP28"
-name = "TRUMP2028"
+issuer = "rLK3DYw5MQhXWaMLViks6Dcp7ZwuYwjafm"
+currency = "PEPE"
+name = "PEPE PARTY"
 desc = ""
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
