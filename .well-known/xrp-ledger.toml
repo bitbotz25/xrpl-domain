@@ -1,11 +1,11 @@
 [[ISSUERS]]
-address = "r3cS6LhdpKCqv9KHZVZnBLqqXR2gPszUmU"
-name = "ETH X"
+address = "r9GrY1ZXK2xGp9jQUjz6ssBaED2ckgoN78"
+name = "SHITCOIN"
 
 [[TOKENS]]
-issuer = "r3cS6LhdpKCqv9KHZVZnBLqqXR2gPszUmU"
-currency = "ETHX"
-name = "ETH X"
+issuer = "r9GrY1ZXK2xGp9jQUjz6ssBaED2ckgoN78"
+currency = "SHIT"
+name = "SHITCOIN"
 desc = ""
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
