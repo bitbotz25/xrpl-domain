@@ -1,9 +1,9 @@
 [[ISSUERS]]
-address = "rfVkGoC4gs8AecuhcAXt2uC7WqFX6R4XZF"
+address = "rEUc1hsWYsM7mLGXjZRVCeEmsFD7EvbByV"
 name = "Pengu N Paw"
 
 [[TOKENS]]
-issuer = "rfVkGoC4gs8AecuhcAXt2uC7WqFX6R4XZF"
+issuer = "rEUc1hsWYsM7mLGXjZRVCeEmsFD7EvbByV"
 currency = "PENPAW"
 name = "Pengu N Paw"
 desc = ""
