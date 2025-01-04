@@ -1,11 +1,11 @@
 [[ISSUERS]]
-address = "rfy8Zb62DUQjUsCYYrWgMR4XiinSbFpbPy"
-name = "XRPTECH"
+address = "r3cS6LhdpKCqv9KHZVZnBLqqXR2gPszUmU"
+name = "ETH X"
 
 [[TOKENS]]
-issuer = "rfy8Zb62DUQjUsCYYrWgMR4XiinSbFpbPy"
-currency = "XRPT"
-name = "XRPTECH"
+issuer = "r3cS6LhdpKCqv9KHZVZnBLqqXR2gPszUmU"
+currency = "ETHX"
+name = "ETH X"
 desc = ""
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
