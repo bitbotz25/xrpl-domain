@@ -1,11 +1,11 @@
 [[ISSUERS]]
-address = "rDXzyuPdpYKaHRFpLNbVEaYzwFthHq2tbd"
-name = "XETH ETH ON XRP"
+address = "r2ktt5dihUC8muRgrJyorUM2WeysqreT6"
+name = "FTXRP"
 
 [[TOKENS]]
-issuer = "rDXzyuPdpYKaHRFpLNbVEaYzwFthHq2tbd"
-currency = "XETH"
-name = "XETH ETH ON XRP"
+issuer = "r2ktt5dihUC8muRgrJyorUM2WeysqreT6"
+currency = "FTXRP"
+name = "FTX on Xrp"
 desc = ""
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
