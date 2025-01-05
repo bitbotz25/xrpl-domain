@@ -1,11 +1,11 @@
 [[ISSUERS]]
-address = "r2ktt5dihUC8muRgrJyorUM2WeysqreT6"
-name = "FTXRP"
+address = "rficn4vPqdFdDLGch1oj9fE4bzG4RcUCMU"
+name = "SHIT COIN"
 
 [[TOKENS]]
-issuer = "r2ktt5dihUC8muRgrJyorUM2WeysqreT6"
-currency = "FTXRP"
-name = "FTX on Xrp"
+issuer = "rficn4vPqdFdDLGch1oj9fE4bzG4RcUCMU"
+currency = "SHIT"
+name = "Devs taking a shit"
 desc = ""
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
