@@ -1,12 +1,12 @@
 [[ISSUERS]]
-address = "rUYJg9Tt5Vsw3BNrrsMtZjbRkH43k7CCzT"
-name = "RICHPEPE"
+address = "rPayLcbuWbhrnVCcVJeAs6uABAAfjWy6wA"
+name = "RED BULL"
 
 [[TOKENS]]
-issuer = "rUYJg9Tt5Vsw3BNrrsMtZjbRkH43k7CCzT"
-currency = "RPC"
-name = "RICHPEPE"
-desc = "RichPepe has arrived—the blinged-out god of wealth!"
+issuer = "rPayLcbuWbhrnVCcVJeAs6uABAAfjWy6wA"
+currency = "RED"
+name = "RED BULL"
+desc = "Red Bull give you wings"
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
 [[TOKENS.WEBLINKS]]
