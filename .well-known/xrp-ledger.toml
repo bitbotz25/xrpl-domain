@@ -1,11 +1,11 @@
 [[ISSUERS]]
 address = "rGJyohGVdSk6DF5Kp1bQDEnK2KkbLyHv43"
-name = "GME GAME STOP STONKS"
+name = "GAME STOP STONKS"
 
 [[TOKENS]]
 issuer = "rGJyohGVdSk6DF5Kp1bQDEnK2KkbLyHv43"
 currency = "GME"
-name = "GME GAME STOP STONKS"
+name = "GAME STOP STONKS"
 desc = ""
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
