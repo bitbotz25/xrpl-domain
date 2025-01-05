@@ -1,11 +1,11 @@
 [[ISSUERS]]
-address = "rEUc1hsWYsM7mLGXjZRVCeEmsFD7EvbByV"
-name = "Pengu N Paw"
+address = "rDXzyuPdpYKaHRFpLNbVEaYzwFthHq2tbd"
+name = "XETH ETH ON XRP"
 
 [[TOKENS]]
-issuer = "rEUc1hsWYsM7mLGXjZRVCeEmsFD7EvbByV"
-currency = "PENPAW"
-name = "Pengu N Paw"
+issuer = "rDXzyuPdpYKaHRFpLNbVEaYzwFthHq2tbd"
+currency = "XETH"
+name = "XETH ETH ON XRP"
 desc = ""
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
