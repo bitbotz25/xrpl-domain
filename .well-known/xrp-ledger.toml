@@ -1,11 +1,11 @@
 [[ISSUERS]]
-address = "rHtU32v2nx7nNRd71WUiLQgXrUBt2NDDm5"
-name = "BASE XRP"
+address = "rHGm3Zc3T4RQR8wRyoTURBGXwLsbE7nZLc"
+name = "BIRD BUCKS"
 
 [[TOKENS]]
-issuer = "rHtU32v2nx7nNRd71WUiLQgXrUBt2NDDm5"
-currency = "BASEX"
-name = "BASE XRP"
+issuer = "rHGm3Zc3T4RQR8wRyoTURBGXwLsbE7nZLc"
+currency = "BIRD"
+name = "BIRD BUCKS"
 desc = ""
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
