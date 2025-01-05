@@ -1,12 +1,12 @@
 [[ISSUERS]]
-address = "rNgxpMyujv21gpkPqbCYz1dyrvdVYrvFgY"
-name = "RichPepe"
+address = "rUYJg9Tt5Vsw3BNrrsMtZjbRkH43k7CCzT"
+name = "RICHPEPE"
 
 [[TOKENS]]
-issuer = "rNgxpMyujv21gpkPqbCYz1dyrvdVYrvFgY"
+issuer = "rUYJg9Tt5Vsw3BNrrsMtZjbRkH43k7CCzT"
 currency = "RPC"
-name = "RichPepe"
-desc = "RichPepe has arrived—the blinged-out god of wealth! Dripping in diamonds, this Pepe isn’t just flexing—it’s claiming the throne. Missed BTC? Slept on ETH? RichPepe is your last first-class ticket to the moon. Join the diamond-handed elite and conquer the crypto Everest today!"
+name = "RICHPEPE"
+desc = "RichPepe has arrived—the blinged-out god of wealth!"
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
 [[TOKENS.WEBLINKS]]
