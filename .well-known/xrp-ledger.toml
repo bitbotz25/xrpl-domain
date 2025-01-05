@@ -1,16 +1,16 @@
 [[ISSUERS]]
-address = "rc3bxyaM8WA1Fa8beCfD36sSfJ8VDTYUG"
-name = "JUST HODL"
+address = "rHtU32v2nx7nNRd71WUiLQgXrUBt2NDDm5"
+name = "BASE XRP"
 
 [[TOKENS]]
-issuer = "rc3bxyaM8WA1Fa8beCfD36sSfJ8VDTYUG"
-currency = "HODL"
-name = "HODL TO THE TOP"
+issuer = "rHtU32v2nx7nNRd71WUiLQgXrUBt2NDDm5"
+currency = "BASEX"
+name = "BASE XRP"
 desc = ""
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
 [[TOKENS.WEBLINKS]]
-url = "https://www.youtube.com"
+url = "https://www.google.com"
 type = "website"
 title = "Official Website"
 
