@@ -1,11 +1,11 @@
 [[ISSUERS]]
-address = "rficn4vPqdFdDLGch1oj9fE4bzG4RcUCMU"
-name = "SHIT COIN"
+address = "rc3bxyaM8WA1Fa8beCfD36sSfJ8VDTYUG"
+name = "JUST HODL"
 
 [[TOKENS]]
-issuer = "rficn4vPqdFdDLGch1oj9fE4bzG4RcUCMU"
-currency = "SHIT"
-name = "Devs taking a shit"
+issuer = "rc3bxyaM8WA1Fa8beCfD36sSfJ8VDTYUG"
+currency = "HODL"
+name = "HODL TO THE TOP"
 desc = ""
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
