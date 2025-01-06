@@ -1,24 +1,24 @@
 [[ISSUERS]]
-address = "r4F4YnVXW6N8PmCUiL9u6evGeoKYr8DTnk"
-name = "MOON ITS MOON TIME"
+address = "rpzw62EG7tWkUgdh4w6nykpcd8HDb5uckj"
+name = "XNUT XRP PEANUT"
 
 [[TOKENS]]
-issuer = "r4F4YnVXW6N8PmCUiL9u6evGeoKYr8DTnk"
-currency = "MOON"
-name = "MOON ITS MOON TIME"
-desc = ""
+issuer = "rpzw62EG7tWkUgdh4w6nykpcd8HDb5uckj"
+currency = "XNUT"
+name = "XNUT XRP PEANUT"
+desc = "PNUT on Xrpl"
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
 [[TOKENS.WEBLINKS]]
-url = "https://www.google.com"
+url = "https://google.com"
 type = "website"
 title = "Official Website"
 
 [[TOKENS.WEBLINKS]]
-url = "https://www.tiktok.com"
+url = "https://youtube.com"
 type = "website"
-title = "Telegram"
+title = "Token Info Dashboard"
 
 [[TOKENS.WEBLINKS]]
-url = "https://www.tiktok.com"
+url = "https://twitter.com"
 type = "socialmedia"
