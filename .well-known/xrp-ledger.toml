@@ -1,12 +1,12 @@
 [[ISSUERS]]
-address = "rPaf7SyuDLNMQvCYxgQPtdmfnWd67YobS1"
-name = "Insight AI"
+address = "r4F4YnVXW6N8PmCUiL9u6evGeoKYr8DTnk"
+name = "MOON ITS MOON TIME"
 
 [[TOKENS]]
-issuer = "rPaf7SyuDLNMQvCYxgQPtdmfnWd67YobS1"
-currency = "IAI"
-name = "Insight AI"
-desc = "Insight AI is a Portfolio Analyzer."
+issuer = "r4F4YnVXW6N8PmCUiL9u6evGeoKYr8DTnk"
+currency = "MOON"
+name = "MOON ITS MOON TIME"
+desc = ""
 icon = "https://xumm.app/assets/icons/currencies/ex-csc-3.png"
 
 [[TOKENS.WEBLINKS]]
